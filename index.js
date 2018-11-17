@@ -10,7 +10,8 @@ function shout(string) {
     console.log (string.toLowerCase())
   }
   function sayHiToGrandma(string){
-    if (sayHiToGrandma) === .toLowerCase()
+    if (string === string.toLowerCase()){
     return "I can't hear you!";
   }
+}
     
